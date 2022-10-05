@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @saisandeep1230k
+- 👀 I’m interested in learning Machine Learning, AI, and Deep Learning
+- 🌱 I’m currently learning the Signal Classification and Modulation separation from a Signal Waveform.
+- 💞️ I’m looking to collaborate on Designing the code.
+- 📫 How to reach me +1-518-961-8413 or Linkedin 
